@@ -17,6 +17,7 @@ With Visual chatGPT Studio, you can receive intelligent code suggestions, genera
 
 ## References
 - https://github.com/jeffdapaz/VisualChatGPTStudio Original VisualChatGPTStudio project
+- https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio Original VisualChatGPTStudio n VS Marketplace
 
 ## ..
 As is. No support. RnD only. DIY.
