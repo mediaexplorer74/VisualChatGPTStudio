@@ -7,12 +7,22 @@ Visual chatGPT Studio is a powerful extension that integrates advanced AI capabi
 With Visual chatGPT Studio, you can receive intelligent code suggestions, generate unit tests, find bugs, optimize code, and much more—all from within your development environment. The extension allows you to interact with AI in a way that streamlines your workflow, making coding more efficient and enjoyable.
 
 ## Screenshot(s)
-![Dev](Images/sshot01.png)
-![Settings](Images/sshot02.png)
+![OpenRouter preset](Images/sshot01.png)
+
+screenshot #1: ChatGPT "substituted" by open-ai-compatible Deepseek-r1 free model
+
+![Comment code request](Images/sshot02.png)
+
+screenshot #2: Comment code request/ query
+
+![Comment code response](Images/sshot03.png)
+
+screenshot #3: Comment code response/answer
 
 ## My 2 cents
-- Exploration original src code
+- Exploration original src code & original docs; Russian readme (look at/in Research folder)
 - Adaptation (2019 reduction & 2022 preview testing ) for newest preview-version of VS IDE
+- OpenRouter preset (look at screenshot #1)
 
 
 ## References
