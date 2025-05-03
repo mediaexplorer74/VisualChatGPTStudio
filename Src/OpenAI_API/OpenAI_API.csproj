@@ -31,6 +31,8 @@
 
 		<Deterministic>true</Deterministic>
 
+		<Platforms>AnyCPU;x64</Platforms>
+
 	</PropertyGroup>
 
 	<PropertyGroup>
